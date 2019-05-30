@@ -3,6 +3,7 @@ using System;
 
 namespace Turkmite
 {
+
     public abstract class TurkmiteBase
     {
         public Mat Image { get; }

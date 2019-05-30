@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowFixedMandelbrot", "ShowFixedMandelbrot\ShowFixedMandelbrot.csproj", "{553F2724-BD98-4E62-84AB-80599F409ECC}"
 EndProject
@@ -24,6 +24,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{553F2724-BD98-4E62-84AB-80599F409ECC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{553F2724-BD98-4E62-84AB-80599F409ECC}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{553F2724-BD98-4E62-84AB-80599F409ECC}.Debug|ARM.ActiveCfg = Debug|ARM
 		{553F2724-BD98-4E62-84AB-80599F409ECC}.Debug|ARM.Build.0 = Debug|ARM
 		{553F2724-BD98-4E62-84AB-80599F409ECC}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -70,6 +71,7 @@ Global
 		{1B1882E4-8758-490B-AC43-177FFAEDB28B}.Release|x86.ActiveCfg = Release|x86
 		{1B1882E4-8758-490B-AC43-177FFAEDB28B}.Release|x86.Build.0 = Release|x86
 		{5744FCED-C0F9-4077-8522-662CC5DC73D5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5744FCED-C0F9-4077-8522-662CC5DC73D5}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{5744FCED-C0F9-4077-8522-662CC5DC73D5}.Debug|ARM.ActiveCfg = Debug|ARM
 		{5744FCED-C0F9-4077-8522-662CC5DC73D5}.Debug|ARM.Build.0 = Debug|ARM
 		{5744FCED-C0F9-4077-8522-662CC5DC73D5}.Debug|ARM.Deploy.0 = Debug|ARM
